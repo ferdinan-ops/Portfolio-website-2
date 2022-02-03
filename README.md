@@ -1,7 +1,7 @@
 # Portfolio Website Part 2
 
-Hi!👋 
-Wellcome to my github.
+<p>Hi!👋</p>
+<p>Wellcome to my github.</p>
 
 
 <h2>What I Use</h2>
