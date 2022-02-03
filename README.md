@@ -1,6 +1,8 @@
 # Portfolio Website Part 2
 
-<h2>Descriptions</h2>
+Hi!👋 
+Wellcome to my github.
+
 
 <h2>What I Use</h2>
 
