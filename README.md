@@ -2,7 +2,7 @@
 
 <p>Hi!👋</p>
 <p>Wellcome to my github.</p>
-<p></p>
+<p>This is my second responsive portfolio website that I created myself with a pretty nice and modern look to look at. I hope I can develop this website better and more interesting. I'm using Visual Studio code as an IDE and using HTML, a bit of CSS, and bootstrap as a framework to build it.</p>
 
 
 <h2>What I Use</h2>
