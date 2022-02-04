@@ -9,7 +9,7 @@
 <ul>
     <li><b>Markup Language:</b> HTML, CSS.</li>
   <li><b>Framework:</b> Bootstrap.</li>
-    <li>IDE:<b></b> VS Code.</li>
+    <li><b>IDE:</b> VS Code.</li>
   <!--  <li><b></b></li>
     <li><b></b></li> -->
 </ul>
