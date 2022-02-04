@@ -10,8 +10,8 @@
     <li><b>Markup Language:</b> HTML, CSS.</li>
   <li><b>Framework:</b> Bootstrap.</li>
     <li><b>IDE:</b> VS Code.</li>
-  <!--  <li><b></b></li>
-    <li><b></b></li> -->
+    <li><b>References:</b> Sandhika Galih - Web programing UNPAS</li>
+   <!-- <li><b></b></li> -->
 </ul>
 
 # Screenshoots
